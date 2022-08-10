@@ -1,0 +1,30 @@
+# Project status
+
+This dictionary contains Chinese glosses where a glos is available from the
+biblical text database. Where a gloss is not available, an English gloss
+has beein included. Updates and submissions are welcome as long as you are
+committed to the data being free and public domain.
+
+# Base data source
+
+This dictionary is a revised version of the Strongs Exhaustive Concordance of the Bible. These revisions include:
+
+ - English definitions have been revised for modern English langauge conventions. Older English words have been replaced with modern equivalents. A conservative effort to has been made to clarify English gender where appropriate. i.e. ἄνθρωπος is updated to include the glosses "man, person, mankind, human" 
+ - Defintions have been split or merged based upon modern lingustic understanding of Koine Greek.
+ - The dictionary has been slightly expanded to include some vocabulary that appears outside of the New Testament to support other Koine Era Greek text. This includes support for Athanaze.
+
+# Copyright Statement
+
+This dictionary is released into the pubic domain, and is free to use without restriction for personal, academic, commercial, and non-commercial purposes. You do not need to request permission to use this dictionary, and no limitations are placed on how it may be used or distributed.
+
+
+In order to guarantee that this dictionary remains unencumbered by copyright issues. The submitter must have the right to submit the data and transfer any/all copyright to the Biblical Text Institute. This ensures that the Biblical Text Institute has the proper permission to completely release all data into the public domain.
+
+If you use this dictionary and would like to attribute the work, it is
+requested, but not required, that you link back to the source in order to
+allow others who use this dictionary to provide feedback and updates so
+that we can continually improve this dictionary:
+
+> Copyright ©2020–2021, Biblical Text Society. This dictionary is dedicated to
+> the public domain. Please submit errata to https://biblicaltext.com
+
