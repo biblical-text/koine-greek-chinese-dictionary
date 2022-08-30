@@ -1,6 +1,6 @@
 # Project status
 
-This dictionary contains Chinese glosses where a glos is available from the
+This dictionary contains Chinese glosses where a gloss is available from the
 biblical text database. Where a gloss is not available, an English gloss
 has beein included. Updates and submissions are welcome as long as you are
 committed to the data being free and public domain.
