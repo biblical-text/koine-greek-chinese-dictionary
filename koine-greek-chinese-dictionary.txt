@@ -1196,7 +1196,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Γώγ, ὁ",,Gōg,Gog,1136
 "γωνία, -ας, ἡ",,gōnia,"angle, corner, secret place",1137
 δαιμονίζομαι,,daimonizomai,am demon possessed,1139
-"δαιμόνιον, -ου, τό",,daimonion,"demon, evil spirit",1140
+"δαιμόνιον, -ου, τό",,daimonion,鬼魔,1140
 δαιμονιώδης,,daimoniōdēs,"demonic, devilish, demon-like",1141
 "δαίμων, -ονος, ὁ",,daimōn,"demon, evil spirit",1142
 δάκνω,,daknō,"bite, backbite, harm seriously",1143
@@ -1220,9 +1220,9 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 δαπανάω,,dapanaō,"spend, spend freely, bear expense, waste",1159
 "δαπάνη, -ης, ἡ",,dapanē,"cost, expense",1160
 "Δαυίδ, ὁ","Δαυείδ, Δαβίδ",Dauid,大衛,1138
-δέ,,de,"然後, 但是, 而",1161
+δέ,,de,"然後, 但是, 而, 但, 卻, 又",1161
 "δέησις, -εως, ἡ",,deēsis,"entreaty, prayer, supplication",1162
-δεῖ,,dei,"必須, 應該",1163
+δεῖ,,dei,"必須, 應該, 必",1163
 "δεῖγμα, -τος, τό",,deigma,"proof, example, type",1164
 δειγματίζω,,deigmatizō,"make a show of, expose, disgrace, hold up as an example",1165
 δείκνυμι,,deiknumi,指示,1166
@@ -1247,11 +1247,11 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 δεκατόω,,dekatoō,"collect or receive tithes, tithe, collect tithe from",1183
 "δεκτός, -ή, -όν",,dektos,"acceptable, welcome, accepted",1184
 δελεάζω,,deleazō,"lure, entice, allure, entice by a bait",1185
-"δένδρον, -ου, τό",,dendron,樹,1186
+"δένδρον, -ου, τό",,dendron,"樹, 樹木",1186
 "δεξιολάβος, -ου, ὁ",,dexiolabos,"bowman, slinger, spearman",
 "δεξιόλαβος, -ου, ὁ",,dexiolabos,"one posted on the right hand, spear-man",1187
-"δεξιός, -ά, -όν",,dexios,"右邊, 右邊的",1188
-δέομαι,,deomai,"ask, request, beseech, beg",1189
+"δεξιός, -ά, -όν",,dexios,"右邊, 右邊的, 右手, 右",1188
+δέομαι,,deomai,"求, 祈求",1189
 "δέος, -ους, τό",,deos,awe,
 "Δερβαῖος, -α, -ον",,Derbaios,"from Derbe, belonging to Derbe",1190
 "Δέρβη, -ης, ἡ",,Derbē,Derbe,1191
@@ -1262,7 +1262,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 δεσμέω,,desmeō,bind,1196
 "δέσμη, -ης, ἡ",,desmē,bundle,1197
 "δέσμιος, -ου, ὁ",,desmios,"prisoner, one bound",1198
-"δεσμός, -οῦ, ὁ",,desmos,"chain, bond, item for binding",1199
+"δεσμός, -οῦ, ὁ",,desmos,捆綁,1199
 "δεσμοφύλαξ, -ακος, ὁ",,desmophulax,"prison keeper, jailer, keeper of a prison",1200
 "δεσμωτήριον, -ου, τό",,desmōtērion,"prison, jail",1201
 "δεσμώτης, -ου, ὁ",,desmōtēs,"prisoner, captive",1202
@@ -1271,9 +1271,9 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 δεῦτε,,deute,come!,1205
 "δευτεραῖος, -α, -ον",,deuteraios,"on the second day, on the next day",1206
 "δευτερόπρωτος, -ον",,deuteroprōtos,second-first,1207
-"δεύτερος, -α, -ον",,deuteros,second,1208
-δέχομαι,,dechomai,"領受, 接待",1209
-δέω,,deō,"bind, tie",1210
+"δεύτερος, -α, -ον",,deuteros,第二,1208
+δέχομαι,,dechomai,"領受, 接待, 受",1209
+δέω,,deō,捆綁,1210
 δή,,dē,"indeed, in fact, so then, truly",1211
 "δῆλος, -η, -ον",,dēlos,"clear, evident, plain, manifest",1212
 δηλόω,,dēloō,"show, make clear, reveal",1213
@@ -1291,7 +1291,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 διαβάλλω,,diaballō,"bring charges, report, slander, complain of, accuse",1225
 διαβεβαιόομαι,,diabebaioomai,"speak confidently, insist, assert emphatically",1226
 διαβλέπω,,diablepō,"see clearly, look intently, see through",1227
-"διάβολος, -ου, ὁ",,diabolos,"slanderer, accuser, Devil, slanderous, Slanderer",1228
+"διάβολος, -ου, ὁ",,diabolos,"魔鬼, 讒言",1228
 διαγγέλλω,,diaggellō,"publish abroad, proclaim, announce throughout, spread the news of",1229
 διαγίνομαι,,diaginomai,"go through, pass, elapse, elapse time",1230
 διαγινώσκω,,diaginōskō,"distinguish, decide, know accurately, examine",1231
@@ -1305,13 +1305,13 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 διαδίδωμι,,diadidōmi,"distribute, give, offer here and there, divide",1239
 "διάδοχος, -ου, ὁ",,diadochos,successor,1240
 διαζώννυμι,,diazōnnumi,"gird about, put on, gird, tie around",1241
-"διαθήκη, -ης, ἡ",,diathēkē,"covenant, will, testament",1242
+"διαθήκη, -ης, ἡ",,diathēkē,"約, 文約",1242
 "διαίρεσις, -εως, ἡ",,diairesis,"division, variety, distribution, difference, distinction",1243
 διαιρέω,,diaireō,"distribute, divide",1244
 διακαθαίρω,,diakathairō,"thoroughly purge, clean out",
 διακαθαρίζω,,diakatharizō,"clean out, cleanse thoroughly",1245
 διακατελέγχομαι,,diakatelegchomai,"refute, overwhelm in argument, utterly refute",1246
-διακονέω,,diakoneō,"serve, minister, wait at table",1247
+διακονέω,,diakoneō,伺候,1247
 "διακονία, -ας, ἡ",,diakonia,"waiting at table, service, ministry",1248
 "διάκονος, -ου, ὁ",,diakonos,"minister, deacon, servant, waiter",1249
 "διακόσιοι, -αι, -α",,diakosioi,"two hundred, 200",1250
@@ -1392,12 +1392,12 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "διδακτικός, -ή, -όν",,didaktikos,"able to teach, apt to teach",1317
 "διδακτός, -ή, -όν",,didaktos,"instructed, taught",1318
 "διδασκαλία, -ας, ἡ",,didaskalia,"teaching, doctrine, instruction",1319
-"διδάσκαλος, -ου, ὁ",,didaskalos,老師,1320
-διδάσκω,,didaskō,教導,1321
-"διδαχή, -ῆς, ἡ",,didachē,"teaching, instruction, doctrine",1322
+"διδάσκαλος, -ου, ὁ",,didaskalos,"老師, 師傅",1320
+διδάσκω,,didaskō,"教導, 教訓",1321
+"διδαχή, -ῆς, ἡ",,didachē,教訓,1322
 "δίδραχμον, -ου, τό",,didrachmon,"double drachma, double-drachma, two drachmae",1323
 "Δίδυμος, -ου, ὁ",,Didumos,"Didymus, Twin, Thomas",1324
-δίδωμι,,didōmi,"給, 賜給",1325
+δίδωμι,,didōmi,"給, 賜給, 賜",1325
 διεγείρω,,diegeirō,"arouse completely, stir up, wake out of sleep, arouse",1326
 διενθυμέομαι,,dienthumeomai,"ponder, reflect",
 "διέξοδος, -ου, ἡ",,diexodos,"outlet, way out, public spot in a city",1327
@@ -1417,8 +1417,8 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 διϊσχυρίζομαι,,diischurizomai,"insist, maintain firmly, assert emphatically",1340
 "δικαιοκρισία, -ας, ἡ",,dikaiokrisia,"righteous judgment, just judgment",1341
 "Δικαιόπολις, -ου, ὁ",,Dikaiopolis,Dicaeopolis,
-"δίκαιος, -α, -ον",,dikaios,義的,1342
-"δικαιοσύνη, -ης, ἡ",,dikaiosunē,"righteousness, justice, justness",1343
+"δίκαιος, -α, -ον",,dikaios,"義的, 公義, 義",1342
+"δικαιοσύνη, -ης, ἡ",,dikaiosunē,"義, 公義",1343
 δικαιόω,,dikaioō,"justify, pronounce righteous, make righteous, defend the cause of",1344
 "δικαίωμα, -τος, τό",,dikaiōma,"regulation, righteous deed, thing pronounced to be just",1345
 δικαίως,,dikaiōs,"righteously, justly",1346
@@ -1427,7 +1427,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "δίκη, -ης, ἡ",,dikē,"penalty, punishment, justice, judicial hearing",1349
 "δίκτυον, -ου, τό",,diktuon,"漁網, 羅網",1350
 "δίλογος, -ον",,dilogos,"insincere, double-tongued, deceitful",1351
-διό,,dio,"therefore, wherefore",1352
+διό,,dio,"所以, 又",1352
 διοδεύω,,diodeuō,"travel through, go about, journey through",1353
 "Διονὐσια, ἡ",,Dionusia,Dionysus,
 "Διονύσιος, -ου, ὁ",,Dionusios,Dionysius,1354
@@ -1438,7 +1438,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 διορύσσω,,diorussō,"break through, break in, dig through",1358
 "Διὸς, ὁ",,Dios,"Zeus, pagan greek God",
 "Διόσκουροι, -ων, ὁ",,Dioskouroi,"Dioscuri, Castor and Pollux",1359
-διότι,,dioti,"because, on this account, for",1360
+διότι,,dioti,"因為, 因",1360
 "Διοτρέφης, -ους, ὁ",Διοτρεφής,Diotrephēs,Diotrephes,1361
 "διπλοῦς, -ῆ, -οῦν",,diplous,"double, two-fold",1362
 διπλόω,,diploō,double,1363
@@ -1456,12 +1456,12 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "δίψυχος, -ον",,dipsuchos,"double-minded, hesitating, wavering",1374
 "διωγμός, -οῦ, ὁ",,diōgmos,persecution,1375
 "διώκτης, -ου, ὁ",,diōktēs,persecutor,1376
-διώκω,,diōkō,"pursue, persecute",1377
+διώκω,,diōkō,追求,1377
 "δόγμα, -τος, τό",,dogma,"a public decree, ordinance",1378
 δογματίζομαι,,dogmatizomai,obligate,
 δογματίζω,,dogmatizō,"subject to regulations, decree",1379
-δοκέω,,dokeō,"think, seem, appear, it seems",1380
-δοκιμάζω,,dokimazō,"prove, approve, put to the test, examine",1381
+δοκέω,,dokeō,想,1380
+δοκιμάζω,,dokimazō,試驗,1381
 "δοκιμασία, -ας, ἡ",,dokimasia,"testing, proving",
 "δοκιμή, -ῆς, ἡ",,dokimē,"proof, approval, trial, tried, approved character",1382
 "δοκίμιον, -ου, τό",,dokimion,"testing, test, trial, what is genuine",1383
@@ -1472,16 +1472,16 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "δόλος, -ου, ὁ",,dolos,"guile, deceit, treachery",1388
 δολόω,,doloō,"falsify, adulterate, corrupt",1389
 "δόμα, -τος, τό",,doma,"present, gift",1390
-"δόξα, -ης, ἡ",,doxa,"榮耀, 威嚴",1391
-δοξάζω,,doxazō,"glorify, praise, honor, bestow glory on",1392
+"δόξα, -ης, ἡ",,doxa,"榮耀, 威嚴, 榮光",1391
+δοξάζω,,doxazō,榮耀,1392
 "Δορκάς, -άδος, ἡ",,Dorkas,Dorcas,1393
 "δόσις, -εως, ἡ",,dosis,"gift, giving, gift.",1394
 "δότης, -ου, ὁ",,dotēs,giver,1395
 δουλαγωγέω,,doulagōgeō,"enslave, subjugate",1396
 "δουλεία, -ας, ἡ",,douleia,"slavery, bondage",1397
-δουλεύω,,douleuō,"serve, am a slave, am subject to, obey",1398
+δουλεύω,,douleuō,事奉,1398
 "δούλη, -ης, ἡ",,doulē,"female slave, bondwoman",1399
-"δοῦλος, -ου, ὁ",,doulos,"servant, slave",1401
+"δοῦλος, -ου, ὁ",,doulos,"僕人, 奴僕",1401
 δουλόω,,douloō,"enslave, bring under subjection",1402
 "δοχή, -ῆς, ἡ",,dochē,"reception, banquet, party",1403
 "δράκων, -οντος, ὁ",,drakōn,"dragon, dragon or huge serpent",1404
@@ -1490,14 +1490,14 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "δρέπανον, -ου, τό",,drepanon,"sickle, pruning hook",1407
 "δρόμος, -ου, ὁ",,dromos,"course, race, running, career",1408
 "Δρούσιλλα, -ης, ἡ",,Drousilla,Drusilla,1409
-δύναμαι,,dunamai,能夠,1410
-"δύναμις, -εως, ἡ",,dunamis,"power, might, ability, marvelous works",1411
+δύναμαι,,dunamai,"能夠, 能, 可以",1410
+"δύναμις, -εως, ἡ",,dunamis,"能力, 權能",1411
 δυναμόω,,dunamoō,"strengthen, enable, empower, fill with power",1412
 "δυνάστης, -ου, ὁ",,dunastēs,"ruler, sovereign, court official, potentate",1413
 δυνατέω,,dunateō,"be able, be powerful, am powerful, able",1414
-"δυνατός, -ή, -όν",,dunatos,"powerful, possible, able",1415
+"δυνατός, -ή, -όν",,dunatos,能,1415
 δύνω,,dunō,"enter, set, go down, sink",1416
-δύο,,duo,"二, 2",1417
+δύο,,duo,"二, 2, 兩",1417
 "δυσβάστακτος, -ον",,dusbastaktos,"hard to bear, difficult to carry",1419
 "δυσεντερία, -ας, ἡ",,dusenteria,dysentery,1420
 "δυσεντέριον, -ου, τό",,dusenterion,dysentery,
@@ -1521,7 +1521,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἔα,,ea,"ah!, ha!, interjection",1436
 ἐάν,,ean,"若, 如果, 甚至若",1437
 ἐάνπερ,,eanper,if only,
-"ἑαυτοῦ, -ῆς, -οῦ",,eautou,自己,1438
+"ἑαυτοῦ, -ῆς, -οῦ",,eautou,"自己, 自",1438
 ἐάω,,eaō,"permit, allow, leave",1439
 ἑβδομήκοντα,,ebdomēkonta,"seventy, 70",1440
 ἑβδομηκοντάκις,,ebdomēkontakis,seventy times,1441
@@ -1533,12 +1533,12 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἑβραΐς, -ΐδος, ἡ",Ἑβραϊς,Ebrais,"Hebrew language, Aramaic",1446
 "Ἑβραϊς, -ιδος, ἡ",Ἑβραΐς,Ebrais,Hebrew language,
 Ἑβραϊστί,,Ebraisti,"Hebrew, Hebrew (or possibly Aramaic) dialect",1447
-ἐγγίζω,,eggizō,"come near, approach",1448
+ἐγγίζω,,eggizō,臨近,1448
 ἐγγράφω,,eggraphō,"inscribe, write, record",1449
 "ἔγγυος, -ου, ὁ",,egguos,"under good security, surety, security",1450
-ἐγγύς,,eggus,near,1451
+ἐγγύς,,eggus,"近, 親近",1451
 ἐγγύτερον,,egguteron,nearer,1452
-ἐγείρω,,egeirō,"raise up, wake, arouse",1453
+ἐγείρω,,egeirō,"復活, 起來",1453
 "ἔγερσις, -εως, ἡ",,egersis,"resurrection, waking up",1454
 "ἐγκάθετος, -ου, ὁ",,egkathetos,"hired to lie in wait, spy",1455
 "ἐγκαίνια, -ων, τό",,egkainia,"festival of rededication, renewal, dedication",1456
@@ -1574,7 +1574,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐθνικῶς,,ethnikōs,"as a Gentile, in the manner of Gentiles",1483
 "ἔθνος, -ους, τό",,ethnos,"國家, 民族, 外邦人, 外國人",1484
 "ἔθος, -ους, τό",,ethos,custom,1485
-εἰ,,ei,"是否, 假若, 既然",1487
+εἰ,,ei,"是否, 假若, 既然, 若, 若是",1487
 εἴγε,,eige,"if indeed, seeing that, unless",1489
 "εἰδέα, -ας, ἡ",,eidea,"form, appearance",
 "εἶδος, -ους, τό",,eidos,"form, sight, appearance, visible form, shape, kind",1491
@@ -1593,7 +1593,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 εἰμί,,eimi,"是, 有",1510
 εἴπερ,,eiper,"if perhaps, if indeed, if so",1512
 εἰρηνεύω,,eirēneuō,"bring to peace, be at peace, am peaceful, keep the peace, am at peace",1514
-"εἰρήνη, -ης, ἡ",,eirēnē,"peace, peace of mind",1515
+"εἰρήνη, -ης, ἡ",,eirēnē,"平安, 和平, 和睦",1515
 "εἰρηνικός, -ή, -όν",,eirēnikos,"peaceable, peaceful, disposed to peace",1516
 εἰρηνοποιέω,,eirēnopoieō,"make peace, reconcile",1517
 "εἰρηνοποιός, -όν",,eirēnopoios,"making peace, pacific, loving peace, peace maker",1518
@@ -1604,7 +1604,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 εἰσβαίνω,,eisbainō,"embark, board  ship",
 εἰσδέχομαι,,eisdechomai,"receive, welcome, welcome in",1523
 εἴσειμι,,eiseimi,"enter, go in",1524
-εἰσέρχομαι,,eiserchomai,進入,1525
+εἰσέρχομαι,,eiserchomai,"進入, 進去",1525
 εἰσκαλέομαι,,eiskaleomai,"invite in, call in, invite",1528
 "εἴσοδος, -ου, ἡ",,eisodos,"entrance, entering, entry",1529
 εἰσπηδάω,,eispēdaō,"leap in, rush in, leap into, rush into",1530
@@ -1615,7 +1615,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 εἴτε,,eite,"if, whether, and if",1535
 εἴωθα,,eiōtha,"be accustomed, to maintain a custom",1486
 ἐκ,,ek,"從⋯出來, 出於",1537
-"ἕκαστος, -η, -ον",,ekastos,"each, every, every one",1538
+"ἕκαστος, -η, -ον",,ekastos,"各人, 各, 每",1538
 ἑκάστοτε,,ekastote,"at any time, always, at every time",1539
 ἑκατόν,,ekaton,"hundred, 100, one hundred",1540
 ἑκατονταέτης,,ekatontaetēs,hundred years old,1541
@@ -1623,7 +1623,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἑκατονταπλασίων,,ekatontaplasiōn,"hundred times, hundredfold",1542
 "ἑκατοντάρχης, -ου, ὁ",,ekatontarchēs,centurion,1543
 ἐκβαίνω,,ekbainō,"go out, leave",
-ἐκβάλλω,,ekballō,"throw out, cast out, drive out, throw, cast, put out, banish, bring forth, produce",1544
+ἐκβάλλω,,ekballō,留下,1544
 "ἔκβασις, -εως, ἡ",,ekbasis,"outcome, way out, end, escape, result",1545
 "ἐκβολή, -ῆς, ἡ",,ekbolē,"jettisoning, throwing out",1546
 ἐκγαμίζω,,ekgamizō,"give in marriage, marry",1547
@@ -1643,9 +1643,9 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἔκδοτος, -ον",,ekdotos,"given up, delivered up",1560
 "ἐκδοχή, -ῆς, ἡ",,ekdochē,"expectation, waiting for",1561
 ἐκδύω,,ekduō,"take off, put off, strip off",1562
-ἐκεῖ,,ekei,"there, in that place",1563
+ἐκεῖ,,ekei,那裡,1563
 ἐκεῖθεν,,ekeithen,"from there, from that place, thence",1564
-ἐκεῖνος,,ekeinos,"他, 她, 它",1565
+ἐκεῖνος,,ekeinos,"他, 她, 它, 那",1565
 ἐκεῖσε,,ekeise,there,1566
 ἐκζητέω,,ekzēteō,"seek out, inquire, require",1567
 "ἐκζήτησις, -εως, ἡ",,ekzētēsis,useless speculation,
@@ -1659,7 +1659,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐκκεντέω,,ekkenteō,"pierce, pierce through, transfix",1574
 ἐκκλάω,,ekklaō,break off,1575
 ἐκκλείω,,ekkleiō,"shut out, exclude",1576
-"ἐκκλησία, -ας, ἡ",,ekklēsia,"assembly, congregation, church",1577
+"ἐκκλησία, -ας, ἡ",,ekklēsia,"教會, 會",1577
 ἐκκλίνω,,ekklinō,"deviate, turn away, turn aside, fall away from",1578
 ἐκκολυμβάω,,ekkolumbaō,"swim away, swim out",1579
 ἐκκομίζω,,ekkomizō,carry out,1580
@@ -1668,7 +1668,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐκλαλέω,,eklaleō,"tell, speak out, disclose",1583
 ἐκλάμπω,,eklampō,"shine (forth), shine forth",1584
 ἐκλανθάνομαι,,eklanthanomai,"forget (altogether), forget entirely",1585
-ἐκλέγομαι,,eklegomai,"choose, elect",1586
+ἐκλέγομαι,,eklegomai,揀選,1586
 ἐκλέγω,,eklegō,"pick out, choose",
 ἐκλείπω,,ekleipō,"fail, cease, come to an end, fail utterly, die",1587
 "ἐκλεκτός, -ή, -όν",,eklektos,"chosen, elect, choice, select",1588
@@ -1694,7 +1694,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐκπλήσσομαι,,ekplēssomai,"be astonished, amazed",
 ἐκπλήσσω,,ekplēssō,"am thunderstruck, astounded",1605
 ἐκπνέω,,ekpneō,"breathe out, expire, breathe my last",1606
-ἐκπορεύομαι,,ekporeuomai,"go out, come out, journey out, come forth",1607
+ἐκπορεύομαι,,ekporeuomai,出來,1607
 ἐκπορνεύω,,ekporneuō,"indulge in gross immorality, am guilty of fornication",1608
 ἐκπτύω,,ekptuō,"disdain, loathe, spit upon, reject",1609
 ἐκριζόω,,ekrizoō,"uproot, root out, root up",1610
@@ -1743,10 +1743,10 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἔλεγχος, -ου, ὁ",,elegchos,"proof, conviction, persuasion, reproof",1650
 ἐλέγχω,,elegchō,"convict, reprove, rebuke, expose",1651
 "ἐλεεινός, -ή, -όν",,eleeinos,"miserable, pitiable, merciful, pitiful",1652
-ἐλεέω,,eleeō,"have mercy, pity, have mercy on",1653
+ἐλεέω,,eleeō,憐恤,1653
 "ἐλεημοσύνη, -ης, ἡ",,eleēmosunē,"alms, alms-giving, charity",1654
 ἐλεήμων,,eleēmōn,"merciful, sympathetic, compassionate, full of pity",1655
-"ἔλεος, -ους, τό",,eleos,"pity, mercy, compassion",1656
+"ἔλεος, -ους, τό",,eleos,"憐憫, 憐恤",1656
 "ἐλευθερία, -ας, ἡ",,eleutheria,"liberty, freedom",1657
 "ἐλεύθερος, -α, -ον",,eleutheros,"free, delivered from obligation",1658
 ἐλευθερόω,,eleutheroō,"set free, exempt (from liability), free, liberate",1659
