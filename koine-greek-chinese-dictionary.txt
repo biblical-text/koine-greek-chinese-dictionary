@@ -37,7 +37,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἀγενής,,agenēs,"base, low, insignificant, without family, ignoble",36
 ἁγιάζω,,agiazō,"make holy, consecrate, sanctify",37
 "ἁγιασμός, -οῦ, ὁ",,agiasmos,聖潔,38
-"ἅγιος, -α, -ον",,agios,"聖潔的, 至聖所, 聖所, 聖徒",40
+"ἅγιος, -α, -ον",,agios,"聖潔的, 至聖所, 聖所, 聖徒, 聖, 聖潔",40
 "ἁγιότης, -ητος, ἡ",,agiotēs,聖潔,41
 "ἁγιωσύνη, -ης, ἡ",,agiōsunē,"holiness, holy or sanctified state",42
 "ἀγκάλη, -ης, ἡ",,agkalē,arm,43
@@ -69,7 +69,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἀγρός, -ου, ὁ",,agros,"田地, 農田, 農地, 田土",68
 ἀγρυπνέω,,agrupneō,"sleepless, watchful, alert (metaphorical)",69
 "ἀγρυπνία, -ας, ἡ",,agrupnia,"sleeplessness, watching",70
-ἄγω,,agō,引導,"71, 33"
+ἄγω,,agō,"引導, 帶","71, 33"
 "ἀγωγή, -ῆς, ἡ",,agōgē,品行,72
 "ἀγών, -ῶνος, ὁ",,agōn,"struggle, fight, contest",73
 "ἀγωνία, -ας, ἡ",,agōnia,"agony, anguish, contest",74
@@ -270,7 +270,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἅμαξα, -ας, ἡ",,amaxa,"wagon, wheeled vehicle",
 "ἀμαράντινος, -η, -ον",,amarantinos,"unfading, fadeless",262
 "ἀμάραντος, -ον",,amarantos,"unfading, permanent",263
-ἁμαρτάνω,,amartanō,犯罪,264
+ἁμαρτάνω,,amartanō,"犯罪, 犯",264
 "ἁμάρτημα, -τος, τό",,amartēma,"sin, fault, evil deed",265
 "ἁμαρτία, -ας, ἡ",,amartia,"罪, 罪惡, 犯罪",266
 "ἀμάρτυρος, -ον",,amarturos,"without witness, untestified to",267
@@ -562,7 +562,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἀπάρτι,,aparti,See ἀπό and ἄρτι,534
 "ἀπαρτισμός, -οῦ, ὁ",,apartismos,"completion, perfection.",535
 "ἀπαρχή, -ῆς, ἡ",,aparchē,first fruit,536
-"ἅπας, -ασα, -αν",,apas,"each, every, all, whole",537
+"ἅπας, -ασα, -αν",,apas,"都, 一切",537
 ἀπασπάζομαι,,apaspazomai,"take leave of, say farewell to",
 ἀπατάω,,apataō,"deceive, lead into error",538
 "ἀπάτη, -ης, ἡ",,apatē,"deceit, deceitfulness, deception",539
@@ -624,7 +624,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἀποθνῄσκω,,apothnēskō,死,599
 ἀποκαθιστάνω,,apokathistanō,"restore, bring back",
 ἀποκαθίστημι,,apokathistēmi,"restore, give back",600
-ἀποκαλύπτω,,apokaluptō,"啟示, 顯現",601
+ἀποκαλύπτω,,apokaluptō,"啟示, 顯現, 指示",601
 "ἀποκάλυψις, -εως, ἡ",,apokalupsis,"revelation, unveiling, uncovering, revealing",602
 "ἀποκαραδοκία, -ας, ἡ",,apokaradokia,eager expectation,603
 ἀποκαταλλάσσω,,apokatallassō,reconcile,604
@@ -1023,7 +1023,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "βιαστής, -οῦ, ὁ",,biastēs,"violent man, forceful",973
 "βιβλαρίδιον, -ου, τό",,biblaridion,little book,974
 "βιβλιδάριον, -ου, τό",,biblidarion,little papyrus roll,974
-"βιβλίον, -ου, τό",,biblion,"書, 書卷",975
+"βιβλίον, -ου, τό",,biblion,"書, 書卷, 冊",975
 "βίβλος, -ου, ἡ",,biblos,書,976
 βιβρώσκω,,bibrōskō,"eat, consume",977
 "Βιθυνία, -ας, ἡ",,Bithunia,Bithynia,978
@@ -1114,7 +1114,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 γαμίζω,,gamizō,give in marriage,
 γαμίσκω,,gamiskō,give in marriage,1061
 "γάμος, -ου, ὁ",,gamos,"marriage, wedding, wedding feast",1062
-γάρ,,gar,"因為, 的確",1063
+γάρ,,gar,"因為, 的確, 因",1063
 "γαστήρ, -τρος, ἡ",,gastēr,"belly, womb, stomach, be pregnant",1064
 γέ,,ge,"indeed, at least, really, even",1065
 "Γεδεών, ὁ",,Gedeōn,Gideon,1066
@@ -1126,19 +1126,19 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "γέλως, -ωτος, ὁ",,gelōs,laughter,1071
 γεμίζω,,gemizō,"fill, load",1072
 γέμω,,gemō,"fill, am full of",1073
-"γενεά, -ᾶς, ἡ",,genea,generation,1074
+"γενεά, -ᾶς, ἡ",,genea,世代,1074
 γενεαλογέω,,genealogeō,"trace descent or ancestry, put into a genealogy, reckon my descent",1075
 "γενεαλογία, -ας, ἡ",,genealogia,genealogy,1076
 "γενέσια, -ων, τό",,genesia,birthday celebration,1077
 "γένεσις, -εως, ἡ",,genesis,"origin, birth, genealogy, lineage",1078
 "γενετή, -ῆς, ἡ",,genetē,birth,1079
 "γένημα, -τος, τό",,genēma,"fruit, produce, harvest",
-γεννάω,,gennaō,"give birth to, beget, bring forth",1080
+γεννάω,,gennaō,生,1080
 "γέννημα, -τος, τό",,gennēma,"offspring, child, brood, fruit",1081
 "Γεννησαρέτ, ἡ",,Gennēsaret,Gennesaret,1082
 "γέννησις, -εως, ἡ",,gennēsis,"nativity, birth",1083
 "γεννητός, -ή, -όν",,gennētos,"born, begotten",1084
-"γένος, -ους, τό",,genos,"race, kind, offspring, family",1085
+"γένος, -ους, τό",,genos,族,1085
 "Γερασηνός, -ή, -όν",,Gerasēnos,Gerasene,
 "Γεργεσηνός, -ή, -όν",,Gergesēnos,from Gerasene,1086
 "Γερμανία, -ας, ἡ",,Germania,Germany,
@@ -1148,7 +1148,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 γεωργέω,,geōrgeō,"farm, cultivate, work the soil, cultivate the soil",1090
 "γεώργιον, -ου, τό",,geōrgion,"cultivated land, field, tilled field",1091
 "γεωργός, -οῦ, ὁ",,geōrgos,"farmer, worker of the soil, husbandman, vine-dresser",1092
-"γῆ, -ης, ἡ",,gē,地,1093
+"γῆ, -ης, ἡ",,gē,"地, 地上",1093
 "γῆρας, -ρως, τό",,gēras,old age,1094
 γηράσκω,,gēraskō,"grow old, become old",1095
 γίνομαι,,ginomai,"發生, 成為",1096
@@ -1162,8 +1162,8 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 γνησίως,,gnēsiōs,"sincerely, genuinely, truly, honorably",1104
 "γνόφος, -ου, ὁ",,gnophos,"darkness, gloom",1105
 "γνώμη, -ης, ἡ",,gnōmē,"purpose, opinion, consent, decision, counsel, judgment, intention",1106
-γνωρίζω,,gnōrizō,"make known, declare, know",1107
-"γνῶσις, -εως, ἡ",,gnōsis,"wisdom, knowledge, doctrine",1108
+γνωρίζω,,gnōrizō,告訴,1107
+"γνῶσις, -εως, ἡ",,gnōsis,"知識, 學問",1108
 "γνώστης, -ου, ὁ",,gnōstēs,"expert, one who knows",1109
 "γνωστός, -ή, -όν",,gnōstos,"known, acquaintance",1110
 γογγύζω,,gogguzō,"mutter, murmur, whisper, grumble",1111
@@ -1179,7 +1179,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "γράμμα, -τος, τό",,gramma,"letter, writings, learning",1121
 "γραμματεύς, -έως, ὁ",,grammateus,文士,1122
 "γραπτός, -ή, -όν",,graptos,written,1123
-"γραφή, -ῆς, ἡ",,graphē,"writing, scripture",1124
+"γραφή, -ῆς, ἡ",,graphē,"聖經, 經, 經書",1124
 γράφω,,graphō,"寫信, 寫",1125
 γραώδης,,graōdēs,"characteristic of an elderly woman, belonging to old women, such as old women tell",1126
 γρηγορέω,,grēgoreō,"watch, keep watch, am awake, am vigilant",1127
@@ -1472,7 +1472,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "δόλος, -ου, ὁ",,dolos,"guile, deceit, treachery",1388
 δολόω,,doloō,"falsify, adulterate, corrupt",1389
 "δόμα, -τος, τό",,doma,"present, gift",1390
-"δόξα, -ης, ἡ",,doxa,"glory, brightness, greatness, splendour, honor",1391
+"δόξα, -ης, ἡ",,doxa,"榮耀, 威嚴",1391
 δοξάζω,,doxazō,"glorify, praise, honor, bestow glory on",1392
 "Δορκάς, -άδος, ἡ",,Dorkas,Dorcas,1393
 "δόσις, -εως, ἡ",,dosis,"gift, giving, gift.",1394
@@ -1572,7 +1572,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἐθνάρχης, -ου, ὁ",,ethnarchēs,"ethnarch (provincial governor), tribal lord",1481
 "ἐθνικός, -ή, -όν",,ethnikos,"Gentile, pagan, heathen, gentile, non-Jew",1482
 ἐθνικῶς,,ethnikōs,"as a Gentile, in the manner of Gentiles",1483
-"ἔθνος, -ους, τό",,ethnos,"nation, Gentiles (plural), race, people, Gentiles",1484
+"ἔθνος, -ους, τό",,ethnos,"國家, 民族, 外邦人, 外國人",1484
 "ἔθος, -ους, τό",,ethos,custom,1485
 εἰ,,ei,"是否, 假若, 既然",1487
 εἴγε,,eige,"if indeed, seeing that, unless",1489
@@ -2164,7 +2164,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐργάζομαι,,ergazomai,"work, word, trade, do",2038
 "ἐργασία, -ας, ἡ",,ergasia,"profit, business, work, working, activity, trade, performance",2039
 "ἐργάτης, -ου, ὁ",,ergatēs,"workman, laborer, field laborer",2040
-"ἔργον, -ου, τό",,ergon,"work, deed, task, action",2041
+"ἔργον, -ου, τό",,ergon,"工作, 產品, 所作所為",2041
 ἐρεθίζω,,erethizō,"arouse, provoke, exasperate, stir up",2042
 ἐρείδω,,ereidō,"stick fast, fix firmly",2043
 ἐρεύγομαι,,ereugomai,"utter, proclaim, declare",2044
@@ -2279,7 +2279,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "εὐπρόσεδρος, -ον",,euprosedros,devoted,2145
 εὐπροσωπέω,,euprosōpeō,"make a good showing, make a fair outward appearance",2146
 "Εὐρακύλων, -ωνος, ὁ",,Eurakulōn,northeast wind,
-εὑρίσκω,,euriskō,find,2147
+εὑρίσκω,,euriskō,"發現, 得到, 找到",2147
 "Εὐροκλύδων, ὁ",,Eurokludōn,east-north-east wind,2148
 "εὐρύχωρος, -ον",,euruchōros,"broad, spacious",2149
 "Εὐρώπῃ, -ης, ἡ",,Eurōpē,"Europe (continent), Europa",
@@ -2620,7 +2620,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἰσραήλ, ὁ",,Israēl,以色列,2474
 "Ἰσραηλίτης, -ου, ὁ",,Israēlitēs,Israelite,2475
 "Ἰσσαχάρ, ὁ",,Issachar,Issachar,
-ἵστημι,,istēmi,"cause to stand, stand",2476
+ἵστημι,,istēmi,"設立, 站立",2476
 ἱστορέω,,istoreō,"visit, get acquainted with",2477
 "Ἴστρος, -ου, ὁ",,Istros,"Danube river, Istros",
 "ἰσχυρός, -ά, -όν",,ischuros,"strong, mighty, powerful",2478
@@ -3946,7 +3946,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ὀχλέομαι,,ochleomai,"trouble, disturb, afflict",
 ὀχλέω,,ochleō,"trouble, torment, worry",3791
 ὀχλοποιέω,,ochlopoieō,"form a mob, gather a crowd",3792
-"ὄχλος, -ου, ὁ",,ochlos,"crowd, multitude",3793
+"ὄχλος, -ου, ὁ",,ochlos,"群眾, 人群, 群",3793
 "ὀχύρωμα, -τος, τό",,ochurōma,"fortress, strong defense",3794
 "ὀψάριον, -ου, τό",,opsarion,"fish, little fish",3795
 ὀψέ,,opse,"long after, late, in the evening",3796
@@ -4349,7 +4349,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ποῖος, -α, -ον",,poios,"what sort of? what?, of what sort",4169
 πολεμέω,,polemeō,"wage war, make war, contend",4170
 "πόλεμος, -ου, ὁ",,polemos,"war, battle, strife",4171
-"πόλις, -εως, ἡ",,polis,city,4172
+"πόλις, -εως, ἡ",,polis,城市,4172
 "πολιτάρχης, -ου, ὁ",,politarchēs,"city official, ruler of a city",4173
 "πολιτεία, -ας, ἡ",,politeia,"citizenship, citizen body",4174
 "πολίτευμα, -τος, τό",,politeuma,"commonwealth, state, citizenship",4175
