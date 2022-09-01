@@ -1748,7 +1748,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐλεήμων,,eleēmōn,"merciful, sympathetic, compassionate, full of pity",1655
 "ἔλεος, -ους, τό",,eleos,"憐憫, 憐恤",1656
 "ἐλευθερία, -ας, ἡ",,eleutheria,"liberty, freedom",1657
-"ἐλεύθερος, -α, -ον",,eleutheros,"free, delivered from obligation",1658
+"ἐλεύθερος, -α, -ον",,eleutheros,自主,1658
 ἐλευθερόω,,eleutheroō,"set free, exempt (from liability), free, liberate",1659
 "ἔλευσις, -εως, ἡ",,eleusis,"coming, arrival, advent",1660
 "ἐλεφάντινος, -η, -ον",,elephantinos,"of ivory, made of ivory",1661
@@ -1772,12 +1772,12 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐλλογέω,,ellogeō,"charge to one's account, impute, charge to, put to one's account",1677
 "Ἐλμαδάμ, ὁ",,Elmadam,Elmadam,
 "Ἐλμωδάμ, ὁ",,Elmōdam,Elmadam,1678
-ἐλπίζω,,elpizō,"hope, hope for, expect",1679
-"ἐλπίς, -ίδος, ἡ",,elpis,"hope, expectation",1680
+ἐλπίζω,,elpizō,盼望,1679
+"ἐλπίς, -ίδος, ἡ",,elpis,"盼望, 指望",1680
 "Ἐλύμας, -α, ὁ",,Elumas,Elymas,1681
 ελωι,,elōi,"Eloi, my God",
 ἐλωΐ,,elōi,"Eloi, my God",1682
-ἐμαυτοῦ,,emautou,of myself,1683
+ἐμαυτοῦ,,emautou,"自己, 我",1683
 ἐμβαίνω,,embainō,embark,1684
 ἐμβάλλω,,emballō,"throw, cast, cast in, throw in",1685
 ἐμβάπτω,,embaptō,"dip, dip into",1686
@@ -1792,7 +1792,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐμμένω,,emmenō,"persevere, remain (in), abide, continue, remain or abide in, abide by, maintain",1696
 "Ἐμμόρ, ὁ",,Emmor,Hamor,1697
 "Ἑμμώρ, ὁ",,Emmōr,Hamor,
-"ἐμός, -ή, -όν",,emos,"my, mine",1699
+"ἐμός, -ή, -όν",,emos,"我, 親",1699
 "ἐμπαιγμονή, -ῆς, ἡ",,empaigmonē,mocking,
 "ἐμπαιγμός, -οῦ, ὁ",,empaigmos,"scorn, mocking, mockery",1701
 ἐμπαίζω,,empaizō,mock,1702
@@ -1811,14 +1811,14 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἐμπόριον, -ου, τό",,emporion,"market, market-house",1712
 "ἔμπορος, -ου, ὁ",,emporos,"merchant, trader",1713
 ἐμπρήθω,,emprēthō,"burn, set on fire, suffer inflammation",1714
-ἔμπροσθεν,,emprosthen,"in front of, before (gen), in front, before the face",1715
+ἔμπροσθεν,,emprosthen,"前, 面前",1715
 ἐμπτύω,,emptuō,spit upon,1716
 ἐμφανής,,emphanēs,"visible, manifest",1717
 ἐμφανίζω,,emphanizō,"manifest, disclose, make visible, report against, appear before",1718
 "ἔμφοβος, -ον",,emphobos,"terrified, frightened, full of fear",1719
 ἐμφυσάω,,emphusaō,"breathe on, breathe into, breathe upon",1720
 "ἔμφυτος, -ον",,emphutos,"implanted, inborn, ingrown, congenital, natural",1721
-ἐν,,en,"在⋯裡面, 藉著",1722
+ἐν,,en,"在⋯裡面, 藉著, 在, 上, 裡",1722
 ἐναγκαλίζομαι,,enagkalizomai,"take in one's arms, hug, take in my arms",1723
 ἐνάλιος,,enalios,"belonging to the sea, marine creatures, living in the sea",1724
 ἔναντι,,enanti,"before (gen), before, in the presence of",1725
@@ -1844,7 +1844,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐνδυναμόω,,endunamoō,"strengthen, empower, fill with power",1743
 ἐνδύνω,,endunō,"slip in, clothe, enter, creep into",1744
 "ἔνδυσις, -εως, ἡ",,endusis,"putting on, clothing, putting on of clothing",1745
-ἐνδύω,,enduō,"put on, clothe",1746
+ἐνδύω,,enduō,穿上,1746
 "ἐνδώμησις, -εως, ἡ",,endōmēsis,"construction, material",
 "ἐνέδρα, -ας, ἡ",,enedra,"ambush, plot, treachery, fraud",1747
 ἐνεδρεύω,,enedreuō,"lie in wait, plot, lie in wait for, seek to entrap, defraud, deceive",1748
@@ -1852,11 +1852,11 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐνειλέω,,eneileō,"wrap in, wrap up, roll up in something",1750
 ἔνειμι,,eneimi,"be in, within, am in",1751
 ἕνεκα,,eneka,"on account of, for the sake of (gen)",
-ἕνεκεν,,eneken,"for the sake of, on account of, wherefore",1752
+ἕνεκεν,,eneken,為,1752
 ἐνενήκοντα,,enenēkonta,"ninety, 90",1768
 "ἐνεός, -ά, -όν",,eneos,"speechless, dumb",1769
 "ἐνέργεια, -ας, ἡ",,energeia,"operative power, working, activity",1753
-ἐνεργέω,,energeō,"work, effect, accomplish, am operative",1754
+ἐνεργέω,,energeō,"運行, 行",1754
 "ἐνέργημα, -τος, τό",,energēma,"effect, activity, working",1755
 ἐνεργής,,energēs,"effective, active, powerful",1756
 ἐνευλογέω,,eneulogeō,bless,1757
@@ -1887,7 +1887,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐντεῦθεν,,enteuthen,"hence, on each side, thereupon, from this place, on this side and on that",1782
 "ἔντευξις, -εως, ἡ",,enteuxis,"petition, request, prayer, intercession",1783
 "ἔντιμος, -ον",,entimos,"valued, precious, highly regarded, honored, honorable",1784
-"ἐντολή, -ῆς, ἡ",,entolē,"commandment, command, injunction",1785
+"ἐντολή, -ῆς, ἡ",,entolē,"誡命, 命令",1785
 "ἐντόπιος, -α, -ον",,entopios,"local, belonging to the place, native, resident",1786
 ἐντός,,entos,"inside, among, within",1787
 ἐντρέπω,,entrepō,"turn about, reverence, put to shame, respect, turn to confusion",1788
@@ -1902,7 +1902,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐνυβρίζω,,enubrizō,"insult, outrage, treat contemptuously",1796
 ἐνυπνιάζομαι,,enupniazomai,dream,1797
 "ἐνύπνιον, -ου, τό",,enupnion,"dream, vision",1798
-ἐνώπιον,,enōpion,"in front of, in the presence of (gen), before (gen)",1799
+ἐνώπιον,,enōpion,"面前, 前",1799
 "Ἐνώς, ὁ",,Enōs,Enosh,1800
 ἐνωτίζομαι,,enōtizomai,"give ear, hearken, take into my ear, listen to",1801
 "Ἑνώχ, ὁ",,Enōch,Enoch,1802
