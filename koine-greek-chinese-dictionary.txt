@@ -30,7 +30,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἀγγεῖον, -ου, τό",,aggeion,"vessel, flask, container, can",30
 "ἀγγελία, -ας, ἡ",,aggelia,message,31
 ἀγγέλλω,,aggellō,"announce, report",
-"ἄγγελος, -ου, ὁ",,aggelos,"使者, 信使, 天使",32
+"ἄγγελος, -ου, ὁ",,aggelos,"使者, 天使, 信使",32
 "ἄγγος, -ους, τό",,aggos,"vessel, container",
 "ἀγέλη, -ης, ἡ",,agelē,"herd, flock",34
 "ἀγενεαλόγητος, -ον",,agenealogētos,"without genealogy, of unrecorded genealogy",35
@@ -247,7 +247,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἀλλήλων,,allēlōn,"彼此, 互相",240
 "ἀλλογενής, -η, -ο",,allogenēs,"foreigner, stranger",241
 ἅλλομαι,,allomai,"leap, spring up, bubble up",242
-"ἄλλος, -η, -ο",,allos,"別人, 另有",243
+"ἄλλος, -η, -ο",,allos,"別人, 別的, 另有",243
 "ἀλλοτριοεπίσκοπος, -ου, ὁ",,allotrioepiskopos,"busybody, meddler in another's affairs",244
 "ἀλλότριος, -α, -ον",,allotrios,"strange, foreign, alien, belonging to another",245
 "ἀλλόφυλος, -ον",,allophulos,"alien, foreign",246
@@ -882,7 +882,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "αὐτοκατάκριτος, -ον",,autokatakritos,self-condemned,843
 "αὐτόματος, -η, -ον",,automatos,"by itself, of its own accord",844
 "αὐτόπτης, -ου, ὁ",,autoptēs,eyewitness,845
-αὐτός,,autos,"他, 自己, 他們",846
+αὐτός,,autos,"他, 她, 自己, 他們, 她們, 牠, 它",846
 αὐτοῦ,,autou,"there, here",847
 "αὐτουργός, -ου, ὁ",,autourgos,farmer,
 "αὐτόφωρος, -ον",,autophōros,"caught in the act, in the very act",1888
@@ -1220,7 +1220,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 δαπανάω,,dapanaō,"spend, spend freely, bear expense, waste",1159
 "δαπάνη, -ης, ἡ",,dapanē,"cost, expense",1160
 "Δαυίδ, ὁ","Δαυείδ, Δαβίδ",Dauid,大衛,1138
-δέ,,de,"然後, 但是, 而, 但, 卻, 又",1161
+δέ,,de,"但是, 但, 且, 然後, 而, 卻, 又",1161
 "δέησις, -εως, ἡ",,deēsis,"entreaty, prayer, supplication",1162
 δεῖ,,dei,"必須, 應該, 必",1163
 "δεῖγμα, -τος, τό",,deigma,"proof, example, type",1164
@@ -1957,7 +1957,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐξουδενέω,,exoudeneō,"despise, treat with contempt",
 ἐξουδενόω,,exoudenoō,"ignore, despise",1847
 ἐξουθενέω,,exoutheneō,"despise, ignore",1848
-"ἐξουσία, -ας, ἡ",,exousia,"權威, 自由",1849
+"ἐξουσία, -ας, ἡ",,exousia,"權威, 權柄, 自由",1849
 ἐξουσιάζω,,exousiazō,"have authority over, master, exercise authority",1850
 "ἐξοχή, -ῆς, ἡ",,exochē,"prominence, eminence, distinction",1851
 ἐξυπνίζω,,exupnizō,"wake up, arouse, wake out of sleep",1852
@@ -2164,7 +2164,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐργάζομαι,,ergazomai,"work, word, trade, do",2038
 "ἐργασία, -ας, ἡ",,ergasia,"profit, business, work, working, activity, trade, performance",2039
 "ἐργάτης, -ου, ὁ",,ergatēs,"workman, laborer, field laborer",2040
-"ἔργον, -ου, τό",,ergon,"工作, 產品, 所作所為",2041
+"ἔργον, -ου, τό",,ergon,"工作, 產品, 所作所為, 行為",2041
 ἐρεθίζω,,erethizō,"arouse, provoke, exasperate, stir up",2042
 ἐρείδω,,ereidō,"stick fast, fix firmly",2043
 ἐρεύγομαι,,ereugomai,"utter, proclaim, declare",2044
@@ -2356,7 +2356,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ζύμη, -ης, ἡ",,zumē,"leaven, ferment",2219
 ζυμόω,,zumoō,"leaven, ferment",2220
 ζωγρέω,,zōgreō,capture alive,2221
-"ζωή, -ῆς, ἡ",,zōē,life,2222
+"ζωή, -ῆς, ἡ",,zōē,生命,2222
 "ζώνη, -ης, ἡ",,zōnē,"belt, girdle, purse",2223
 ζώννυμι,,zōnnumi,gird,2224
 ζωννύω,,zōnnuō,gird,
@@ -2449,7 +2449,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 θεομαχέω,,theomacheō,fight against God,2313
 "θεομάχος, -ον",,theomachos,fighting against God,2314
 "θεόπνευστος, -ον",,theopneustos,"inspired by God, God-breathed",2315
-"θεός, -ου, ὁ",,theos,"上帝, 神",2316
+"θεός, -ου, ὁ",,theos,"上帝, 神, 神明",2316
 "θεοσέβεια, -ας, ἡ",,theosebeia,"piety, godliness, reverence for God",2317
 θεοσεβής,,theosebēs,"god-fearing, devout, pious",2318
 θεοστυγής,,theostugēs,"hating God, hateful to God",2319
@@ -2683,7 +2683,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 καθότι,,kathoti,"according as, because, since",2530
 καθώς,,kathōs,"正如, 按照, 當⋯時, 當, 如何, 照著",2531
 καθώσπερ,,kathōsper,even as,
-καί,,kai,"跟, 也, 和, 並且",2532
+καί,,kai,"和, 也, 跟, 並且",2532
 "Καϊάφας, -α, ὁ",,Kaiaphas,Caiaphas,2533
 καίγε,,kaige,"moreover, indeed, at least",2534
 "Κάϊν, ὁ",,Kain,Cain,2535
@@ -2741,7 +2741,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 καπηλεύω,,kapēleuō,"trade in, peddle, hawk",2585
 "καπνός, -οῦ, ὁ",,kapnos,smoke,2586
 "Καππαδοκία, -ας, ἡ",,Kappadokia,Cappadocia,2587
-"καρδία, -ας, ἡ",,kardia,heart,2588
+"καρδία, -ας, ἡ",,kardia,心,2588
 "καρδιογνώστης, -ου, ὁ",,kardiognōstēs,"knower of hearts, knower of the inner life",2589
 "Κάρπος, -ου, ὁ",,Karpos,Carpus,2591
 "καρπός, -οῦ, ὁ",,karpos,"fruit, result, gain",2590
@@ -3067,7 +3067,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "κοσμικός, -ή, -όν",,kosmikos,"earthly, worldly",2886
 "κόσμιος, -ον",,kosmios,"respectable, appropriate, orderly, virtuous",2887
 "κοσμοκράτωρ, -ορος, ὁ",,kosmokratōr,"world ruler, ruler of this world",2888
-"κόσμος, -ου, ὁ",,kosmos,"世界, 宇宙",2889
+"κόσμος, -ου, ὁ",,kosmos,"世界, 宇宙, 世人",2889
 "Κούαρτος, -ου, ὁ",,Kouartos,Quartus,2890
 κουμ,,koum,"stand up, arise",
 κοῦμι,,koumi,arise,2891
@@ -4328,7 +4328,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 πλουτίζω,,ploutizō,"enrich, make wealthy, make rich",4148
 "πλοῦτος, -ου, ὁ",,ploutos,"wealth, riches",4149
 πλύνω,,plunō,wash,4150
-"πνεῦμα, -τος, τό",,pneuma,"靈, 氣, 風, 氣息, 聖靈",4151
+"πνεῦμα, -τος, τό",,pneuma,"靈, 聖靈, 風, 氣, 氣息",4151
 "πνευματικός, -ή, -όν",,pneumatikos,spiritual,4152
 πνευματικῶς,,pneumatikōs,"spiritually, in a spiritual manner",4153
 πνέω,,pneō,blow,4154
@@ -4597,7 +4597,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 προφέρω,,propherō,"bring forth, produce",4393
 "προφητεία, -ας, ἡ",,prophēteia,prophecy,4394
 προφητεύω,,prophēteuō,"prophesy, foretell",4395
-"προφήτης, -ου, ὁ",,prophētēs,"prophet, poet",4396
+"προφήτης, -ου, ὁ",,prophētēs,先知,4396
 "προφητικός, -ή, -όν",,prophētikos,prophetic,4397
 "προφῆτις, -ιδος, ἡ",,prophētis,"prophet, prophetess",4398
 προφθάνω,,prophthanō,"anticipate, come before",4399
@@ -5723,7 +5723,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 φύω,,phuō,"grow up, spring up, come up, grow",5453
 "φωλεός, -οῦ, ὁ",,phōleos,"den, hole, burrow",5454
 φωνέω,,phōneō,"call, crow, shout, summon",5455
-"φωνή, -ῆς, ἡ",,phōnē,"sound, voice",5456
+"φωνή, -ῆς, ἡ",,phōnē,聲音,5456
 "φῶς, -ός, τό",,phōs,光,5457
 "φωστήρ, -ῆρος, ὁ",,phōstēr,"star, light, brilliance, brilliancy",5458
 "φωσφόρος, -ου, ὁ",,phōsphoros,"morning star, light-bearing, radiant",5459
@@ -5877,7 +5877,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ὦμος, -ου, ὁ",,ōmos,shoulder,5606
 ὠνέομαι,,ōneomai,"buy, purchase",5608
 "ᾠόν, -οῦ, τό",,ōon,egg,5609
-"ὥρα, -ας, ἡ",,ōra,"時刻, 小時, 時辰",5610
+"ὥρα, -ας, ἡ",,ōra,"時刻, 小時, 小時, 時辰",5610
 "ὡραῖος, -α, -ον",,ōraios,"beautiful, fair, lovely",5611
 ὠρύομαι,,ōruomai,"roar, howl",5612
 ὡς,,ōs,"當, 如何, 約有, 好像, 正當",5613
