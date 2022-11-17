@@ -131,6 +131,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἀΐδιος, -ον",,aidios,"eternal, everlasting",126
 "αἰδώς, -οῦς, ἡ",,aidōs,"廉恥, 虔誠",127
 "Αἰθίοψ, -οπος, ὁ",,Aithiops,Ethiopian,128
+"αἴλουρος, -ος, ὁ",,ailouros,cat,
 "αἷμα, -τος, τό",,aima,血,129
 "αἱματεκχυσία, -ας, ἡ",,aimatekchusia,流血,130
 αἱμορροέω,,aimorroeō,"bleed, suffer with hemorrhage, experience loss of blood",131
@@ -267,6 +268,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἅλωσις, -εως, ἡ",,alōsis,捉拿,259
 ἅμα,,ama,"同, 一同",260
 ἀμαθής,,amathēs,"ignorant, unlearned",261
+"Ἀμαθής, -οῦ, ὁ",,Amathēs,"Amittai, unfeeling, uncivilised, unmanageable",
 "ἅμαξα, -ας, ἡ",,amaxa,"wagon, wheeled vehicle",
 "ἀμαράντινος, -η, -ον",,amarantinos,"unfading, fadeless",262
 "ἀμάραντος, -ον",,amarantos,"unfading, permanent",263
@@ -526,6 +528,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἀντλέω,,antleō,"draw water, draw, draw out",501
 "ἄντλημα, -τος, τό",,antlēma,"bucket, pail",502
 ἀντοφθαλμέω,,antophthalmeō,"look directly at, face, resist",503
+"ἄντρον, -ου, τό",,antron,cave (poetic),
 "ἄνυδρος, -ον",,anudros,"waterless, dry, without water",504
 "ἀνυπόκριτος, -ον",,anupokritos,"sincere, without hypocrisy, genuine, unfeigned",505
 "ἀνυπότακτος, -ον",,anupotaktos,"not subject to rule, rebellious, unruly",506
@@ -814,6 +817,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἀσιτία, -ας, ἡ",,asitia,"lack of appetite, abstinence, fast",776
 "ἄσιτος, -ον",,asitos,"without eating, fasting",777
 ἀσκέω,,askeō,"practice, engage in, train, exercise",778
+"ἄσκησις, -εως, ἡ",,askēsis,"exercise, practice, training",
 "ἀσκός, -οῦ, ὁ",,askos,"leather bottle, wineskin, leather bag",779
 ἀσμένως,,asmenōs,"gladly, joyfully, with delight",780
 "ἄσοφος, -ον",,asophos,"unwise, foolish, unskilled",781
@@ -870,7 +874,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 αὐθεντέω,,authenteō,"govern, exercise authority, domineer over",831
 αὖθις,,authis,"again, afresh, moreover",
 αὐλέω,,auleō,"play a flute, play the flute, pipe",832
-"αὐλή, -ῆς, ἡ",,aulē,"courtyard, enclosed open space, palace, house",833
+"αὐλή, -ῆς, ἡ",,aulē,"enclosed open space, courtyard, enclosed dwelling complex, palace",833
 "αὐλητής, -οῦ, ὁ",,aulētēs,"flute player, pipe player",834
 αὐλίζομαι,,aulizomai,"spend the night, lodge, pass the night",835
 "αὔλιον, -ον, τό",,aulion,"animal pen, sheep pen, stable",
@@ -950,6 +954,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "βαθύς, -εῖα, -ύ",,bathus,"deep, early, profound",901
 βαίνω,,bainō,go,
 "βαΐον, -ου, τό",,baion,palm branch,902
+"βακτηρία, -ας, ἡ",,baktēria,rod,
 "Βαλαάμ, ὁ",,Balaam,Balaam,903
 "Βαλάκ, ὁ",,Balak,Balak,904
 "βαλλάντιον, -ου, τό",βαλάντιον,ballantion,"purse, money bag",905
@@ -1183,6 +1188,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 γονυπετέω,,gonupeteō,"fall on the knees, kneel down, fall on my knees before, supplicate, entreat",1120
 "γράμμα, -τος, τό",,gramma,"letter, writings, learning",1121
 "γραμματεύς, -έως, ὁ",,grammateus,文士,1122
+"γραμματική, -ας, ἡ",,grammatikē,grammar,
 "γραπτός, -ή, -όν",,graptos,written,1123
 "γραφή, -ῆς, ἡ",,graphē,"聖經, 經, 經書",1124
 γράφω,,graphō,"寫信, 寫",1125
@@ -1730,7 +1736,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ἐκχωρέω,,ekchōreō,"go out, leave, depart, depart from",1633
 ἐκψύχω,,ekpsuchō,"expire, breathe one's last, breathe my last, die",1634
 "ἑκών, -οῦσα, -ον",,ekōn,"of one's own free will, voluntarily, willing, willingly",1635
-"ἐλαία, -ας, ἡ",,elaia,"olive tree, olive",1636
+"ἐλαία, -ας, ἡ",,elaia,"橄欖樹, 橄欖",1636
 "ἔλαιον, -ου, τό",,elaion,olive oil,1637
 "ἐλαιών, -ῶνος, ὁ",,elaiōn,"olive grove, olive orchard, mount Olivet",1638
 "Ἐλαμίτης, -ου, ὁ",,Elamitēs,"Elamites, Elamite",1639
@@ -1803,6 +1809,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἐμπαιγμός, -οῦ, ὁ",,empaigmos,"scorn, mocking, mockery",1701
 ἐμπαίζω,,empaizō,mock,1702
 "ἐμπαίκτης, -ου, ὁ",,empaiktēs,mocker,1703
+"ἐμπειρία, -ας, ἡ",,empeiria,experience,
 ἐμπεριπατέω,,emperipateō,"walk about, walk among, walk about in a place",1704
 ἐμπίπλημι,,empiplēmi,"fill up, satisfy",1705
 ἐμπίπρημι,,empiprēmi,set on fire,
@@ -2168,7 +2175,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἔραστος, -ου, ὁ",,Erastos,Erastus,2037
 ἐραυνάω,,eraunaō,"search, examine, inquire",
 ἐργάζομαι,,ergazomai,"work, word, trade, do",2038
-"ἐργασία, -ας, ἡ",,ergasia,"profit, business, work, working, activity, trade, performance",2039
+"ἐργασία, -ας, ἡ",,ergasia,"work, profit, business, activity, trade",2039
 "ἐργάτης, -ου, ὁ",,ergatēs,"workman, laborer, field laborer",2040
 "ἔργον, -ου, τό",,ergon,"工作, 產品, 所作所為, 行為",2041
 ἐρεθίζω,,erethizō,"arouse, provoke, exasperate, stir up",2042
@@ -2473,6 +2480,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 θερμαίνομαι,,thermainomai,warm,
 θερμαίνω,,thermainō,warm,2328
 "θέρμη, -ης, ἡ",,thermē,heat,2329
+"θερμός, -ή, -όν",,thermos,"hot, warm",
 "θέρος, -ους, τό",,theros,summer,2330
 "Θεσσαλονικεύς, -έως, ὁ",,Thessalonikeus,Thessalonian,2331
 "Θεσσαλονίκη, -ης, ἡ",,Thessalonikē,Thessalonica,2332
@@ -2546,7 +2554,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ἴασις, -εως, ἡ",,iasis,"healing, cure",2392
 "ἴασπις, -ιδος, ἡ",,iaspis,"jasper (a translucent stone), jasper",2393
 "Ἰάσων, -ονος, ὁ",,Iasōn,Jason,2394
-"ἰατρός, -οῦ, ὁ",,iatros,physician,2395
+"ἰατρός, -οῦ, ὁ",,iatros,"physician, doctor",2395
 ἴδε,,ide,"See!, Behold!, Look!",2396
 "ἰδέα, -ας, ἡ",,idea,"form, outward appearance",2397
 "ἴδιος, -α, -ον",,idios,"his, one’s own, one's own, private, personal",2398
@@ -2630,6 +2638,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ἰσραήλ, ὁ",,Israēl,以色列,2474
 "Ἰσραηλίτης, -ου, ὁ",,Israēlitēs,Israelite,2475
 "Ἰσσαχάρ, ὁ",,Issachar,Issachar,
+ἱστάνω,,istanō,"設立, 站立",
 ἵστημι,,istēmi,"設立, 站立",2476
 ἱστορέω,,istoreō,"visit, get acquainted with",2477
 "Ἴστρος, -ου, ὁ",,Istros,"Danube river, Istros",
@@ -2728,7 +2737,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "κάκωσις, -εως, ἡ",,kakōsis,"mistreatment, oppression, affliction, ill-treatment",2561
 "καλάμη, -ης, ἡ",,kalamē,"stubble, straw",2562
 "κάλαμος, -ου, ὁ",,kalamos,"reed, reed-pen",2563
-καλέω,,kaleō,"call, name invite, invite, name",2564
+καλέω,,kaleō,"call, name, invite",2564
 "καλλιέλαιος, -ου, ἡ",,kallielaios,cultivated olive tree,2565
 κάλλιον,,kallion,very well,2566
 "καλοδιδάσκαλος, -ον",,kalodidaskalos,"teaching what is good, teacher of that which is noble",2567
@@ -3008,6 +3017,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "κλητός, -ή, -όν",,klētos,"called, summoned",2822
 "κλίβανος, -ου, ὁ",,klibanos,"oven, furnace",2823
 "κλίμα, -τος, τό",,klima,"region, territory",2824
+"κλῖμαξ, -ος, ἡ",,klimax,"ladder, staircase, climax (grammar)",
 "κλινάριον, -ου, τό",,klinarion,"bed, cot",
 "κλίνη, -ης, ἡ",,klinē,"couch, bed, mat, stretcher",2825
 "κλινίδιον, -ου, τό",,klinidion,"small bed, cot, couch or litter",2826
@@ -3046,12 +3056,13 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 κολοβόω,,koloboō,"curtail, shorten, cut short",2856
 "Κολοσσαί, -ῶν, ἡ",Κολασσαί,Kolossai,Colossae,2857
 "κόλπος, -ου, ὁ",,kolpos,胸,2859
-κολυμβάω,,kolumbaō,"swim up and down, swim",2860
+κολυμβάω,,kolumbaō,swim,2860
 "κολυμβήθρα, -ας, ἡ",,kolumbēthra,"pool, swimming-place",2861
 "κολωνία, -ας, ἡ",,kolōnia,"colony, garrison city",2862
 κομάω,,komaō,"have long hair, wear the hair long",2863
 "κόμη, -ης, ἡ",,komē,"(long) hair, hair, long hair",2864
 κομίζω,,komizō,"receive, bring, recover",2865
+"κόμμα, -τος, τὸ",,komma,"short clause (grammar), phrase (grammar), something cut off",
 κομψότερον,,kompsoteron,"better, in better health",2866
 κονιάω,,koniaō,whitewash,2867
 "κονιορτός, -οῦ, ὁ",,koniortos,dust,2868
@@ -3082,6 +3093,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Κούαρτος, -ου, ὁ",,Kouartos,Quartus,2890
 κουμ,,koum,"stand up, arise",
 κοῦμι,,koumi,arise,2891
+"κούνικλος, -ος, ὁ",κουνίκολος,kouniklos,rabbit,
 "κουστωδία, -ας, ἡ",,koustōdia,guard,2892
 κουφίζω,,kouphizō,"make light, lighten",2893
 "κόφινος, -ου, ὁ",,kophinos,"basket, large basket",2894
@@ -3112,7 +3124,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "κρίμα, -ος, τό",,krima,"judgment, verdict, lawsuit",2917
 "κρίνον, -ου, τό",,krinon,lily,2918
 κρίνω,,krinō,"judge, decide, think good",2919
-"κρίσις, -εως, ἡ",,krisis,"judgment, judging, divine judgment",2920
+"κρίσις, -εως, ἡ",,krisis,"judgment, legal decision",2920
 "Κρίσπος, -ου, ὁ",,Krispos,Crispus,2921
 "κριτήριον, -ου, τό",,kritērion,"law court, tribunal, criterion",2922
 "κριτής, -ου, ὁ",,kritēs,judge,2923
@@ -3336,8 +3348,10 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 μακρόθεν,,makrothen,"from afar, afar, from a distance",3113
 μακροθυμέω,,makrothumeō,"be patient, suffer long, have patience, am forbearing",3114
 "μακροθυμία, -ας, ἡ",,makrothumia,"long-suffering, patience, forbearance",3115
+"μακρόθυμος, -ον",,makrothumos,"long, patient, long-suffering",
 μακροθύμως,,makrothumōs,patiently,3116
 "μακρός, -ά, -όν",,makros,"long, far distant, distant",3117
+"μακρότης, -ητος, ἡ",,makrotēs,length,
 "μακροχρόνιος, -ον",,makrochronios,long-lived,3118
 μάλα,,mala,"very, very much, exceedingly",
 "μαλακία, -ας, ἡ",,malakia,"sickness, weakness, illness",3119
@@ -3355,6 +3369,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "μανία, -ας, ἡ",,mania,"madness, frenzy, raving madness",3130
 "μάννα, τό",,manna,manna,3131
 μαντεύομαι,,manteuomai,"prophesy, tell fortunes, predict, practice soothsaying",3132
+"μάντις, -εως, ὁ",,mantis,"seer, prophet, diviner, grasshopper",
 μαραίνομαι,,marainomai,"die out, fade away",
 μαραίνω,,marainō,"die, wither",3133
 μαράν,,maran,Our Lord,
@@ -3631,8 +3646,10 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Νάρκισσος, -ου, ὁ",,Narkissos,Narcissus,3488
 ναυαγέω,,nauageō,"suffer shipwreck, am shipwrecked, ruined",3489
 "ναύκληρος, -ου, ὁ",,nauklēros,"ship captain, master of a ship",3490
+"ναῦλον, -ου, τὸ",,naulon,ship fare,
 "ναῦς, ἡ",,naus,"ship, vessel",3491
 "ναύτης, -ου, ὁ",,nautēs,"sailor, seaman",3492
+"ναυτικός, -ή, -όν",,nautikos,skilled in sailing,
 "Ναχώρ, ὁ",,Nachōr,Nahor,3493
 "νεανίας, -ου, ὁ",,neanias,"young adult, young man, youth",3494
 "νεανίσκος, -ου, ὁ",,neaniskos,"youth, young man",3495
@@ -3677,7 +3694,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Νικόλαος, -ου, ὁ",,Nikolaos,Nicolaus,3532
 "Νικόπολις, -εως, ἡ",,Nikopolis,Nicopolis,3533
 "νῖκος, -ους, τό",,nikos,victory,3534
-"Νινευΐ, ἡ",,Nineui,Nineveh,3535
+"Νινευΐ, ἡ",Νινευή,Nineui,Nineveh,3535
 "Νινευίτης, -ου, ὁ",,Nineuitēs,Ninevite,3536
 "νιπτήρ, -ῆρος, ὁ",,niptēr,"wash basin, basin",3537
 νίπτω,,niptō,wash,3538
@@ -3774,7 +3791,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "οἰκοδεσπότης, -ου, ὁ",,oikodespotēs,"householder, head of a household",3617
 οἰκοδομέω,,oikodomeō,"build up, construct, strengthen",3618
 "οἰκοδομή, -ῆς, ἡ",,oikodomē,"building, edification, act of building",3619
-"οἰκοδόμος, -ου, ὁ",,oikodomos,builder,
+"οἰκοδόμος, -ου, ὁ",,oikodomos,"builder, architect",
 οἰκονομέω,,oikonomeō,"manage, administer, be a steward, am a steward",3621
 "οἰκονομία, -ας, ἡ",,oikonomia,"stewardship, administration",3622
 "οἰκονόμος, -ου, ὁ",,oikonomos,"manager, steward",3623
@@ -4356,7 +4373,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ποιέω,,poieō,做,4160
 "ποίημα, -τος, τό",,poiēma,"work, creation, thing made",4161
 "ποίησις, -εως, ἡ",,poiēsis,"making, doing",4162
-"ποιητής, -οῦ, ὁ",,poiētēs,"maker, doer, performer, poet",4163
+"ποιητής, -οῦ, ὁ",,poiētēs,"maker, performer, poet",4163
 "ποικίλος, -η, -ον",,poikilos,"varied, manifold, various, of different colors",4164
 ποιμαίνω,,poimainō,"shepherd, rule, tend",4165
 "ποιμήν, -ένος, ὁ",,poimēn,shepherd,4166
@@ -4373,6 +4390,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "πολίτης, -ου, ὁ",,politēs,citizen,4177
 πολλάκις,,pollakis,"often, many times",4178
 πολλαπλασίων,,pollaplasiōn,"many times as much, many times more, manifold",4179
+"πολυέλεος, -ον",,polueleos,very merciful,
 "πολυλογία, -ας, ἡ",,polulogia,"much speaking, wordiness",4180
 πολυμερῶς,,polumerōs,"in various parts, in many parts",4181
 "πολυποίκιλος, -ον",,polupoikilos,"many-sided, manifold, much varied",4182
@@ -4616,7 +4634,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "προφήτης, -ου, ὁ",,prophētēs,先知,4396
 "προφητικός, -ή, -όν",,prophētikos,prophetic,4397
 "προφῆτις, -ιδος, ἡ",,prophētis,"prophet, prophetess",4398
-προφθάνω,,prophthanō,"anticipate, come before",4399
+προφθάνω,,prophthanō,"anticipate, outrun, come before",4399
 προχειρίζομαι,,procheirizomai,"determine, appoint, choose, elect",4400
 προχειροτονέω,,procheirotoneō,"choose beforehand, designate beforehand",4401
 "Πρόχορος, -ου, ὁ",,Prochoros,Prochorus,4402
@@ -4629,6 +4647,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "πρωϊνός, -ή, -όν",,prōinos,"early, belonging to the morning",4407
 "πρῴρα, -ας, ἡ",,prōra,prow of a ship,4408
 "πρῷρα, -ης, ἡ",,prōra,"bow, prow (of a ship)",
+"πρωρεύς, -έως, ὁ",,prōreus,"ship captain, captain",
 πρωτεύω,,prōteuō,"be first, have first place, have preeminence, am chief",4409
 "πρωτοκαθεδρία, -ας, ἡ",,prōtokathedria,"chief seat, seat of honor",4410
 "πρωτοκλισία, -ας, ἡ",,prōtoklisia,"chief place, place of honor (at table), chief place at a banquet",4411
@@ -4676,7 +4695,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 πυρόω,,puroō,"burn, am purified by fire",4448
 πυρράζω,,purrazō,"be (fiery) red, am red",4449
 "Πύρρος, -ου, ὁ",,Purros,"flame coloured, Pyrrhus",
-"πυρρός, -ά, -όν",,purros,紅色,
+"πυρρός, -ά, -όν",,purros,"紅色, 橙色",
 "πύρωσις, -εως, ἡ",,purōsis,"burning, burning ordeal, trial, fiery test",4451
 πωλέω,,pōleō,sell,4453
 "πῶλος, -ου, ὁ",,pōlos,"colt, young ass",4454
@@ -4708,13 +4727,14 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ῥαχάβ, ἡ",,Rachab,Rahab,4477
 "Ῥαχήλ, ἡ",,Rachēl,Rachel,4478
 "Ῥεβέκκα, -ας, ἡ",,Rebekka,Rebecca,4479
+ῥεγ́κω,,regkō,"snore, snort",
 "ῥέδα, -ης, ἡ",,reda,"chariot, carriage",4480
 "Ῥεμφάν, ὁ",,Remphan,"Rephan, Saturn",4481
 ῥέω,,reō,flow,4482
 "Ῥήγιον, -ου, τό",,Rēgion,Rhegium,4484
 "ῥῆγμα, -τος, τό",,rēgma,"wreck, ruin, destruction",4485
 ῥήγνυμι,,rēgnumi,"break apart, throw down, dash, break, break forth",4486
-"ῥῆμα, -τος, τό",,rēma,"word, saying, thing spoken",4487
+"ῥῆμα, -τος, τό",,rēma,"word, saying, thing spoken, verb (grammar)",4487
 "Ῥῆνος, -ος, ἡ",,Rēnos,rhine river,
 "Ῥησά, ὁ",,Rēsa,Rhesa,4488
 "ῥήτωρ, -ορος, ὁ",,rētōr,"advocate, attorney, orator",4489
@@ -4727,6 +4747,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 ῥιπίζω,,ripizō,toss to and fro,4494
 ῥιπτέω,,ripteō,throw away,4495
 ῥίπτω,,riptō,"throw, cast, throw off, toss",4496
+"ῥίς, -ος, ἡ",,ris,nose,
 "Ῥοβοάμ, ὁ",,Roboam,羅波安,4497
 "Ῥόδη, -ης, ἡ",,Rodē,Rhoda,4498
 "Ῥόδος, -ου, ἡ",,Rodos,Rhodes,4499
@@ -4907,6 +4928,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "σκύβαλον, -ου, τό",,skubalon,"refuse, garbage, rubbish, dregs",4657
 "Σκύθης, -ου, ὁ",,Skuthēs,Scythian,4658
 "σκυθρωπός, -ή, -όν",,skuthrōpos,"sad, gloomy, sad-countenanced",4659
+σκυθρωπῶς,,skuthrōpōs,"sadly, angrily",
 σκύλλω,,skullō,"trouble, bother, annoy, flay",4660
 "σκῦλον, -ου, τό",,skulon,"booty, spoils, plunder, spoil taken from a foe",4661
 "σκωληκόβρωτος, -ον",,skōlēkobrōtos,eaten by worms,4662
@@ -5027,6 +5049,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 συγγενής,,suggenēs,"relative, kin, related",4773
 "συγγενίς, -ίδος, ἡ",,suggenis,"kinswoman, relative",
 "συγγνώμη, -ης, ἡ",,suggnōmē,"concession, indulgence, pardon, permission",4774
+"συγγραφεύς, -εως, ὁ",,suggrapheus,"author, historian, writer",
 συγκάθημαι,,sugkathēmai,sit with,4775
 συγκαθίζω,,sugkathizō,"cause to sit down together, sit down together, cause to sit down with",4776
 συγκακοπαθέω,,sugkakopatheō,"suffer together with someone, suffer hardships together with",4777
@@ -5298,6 +5321,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Ταρσεύς, -έως, ὁ",,Tarseus,"Tarsian, belonging to Tarsus",5018
 "Ταρσός, -οῦ, ἡ",,Tarsos,Tarsus,5019
 ταρταρόω,,tartaroō,"cast into Tartarus, cast into hell, thrust down to Tartarus",5020
+"Ταρτησσός, -οῦ, ὁ",,Tartēssos,Tarshish,
 τάσσω,,tassō,"arrange, appoint, order, assign",5021
 "ταῦρος, -ου, ὁ",,tauros,"bull, ox",5022
 "ταφή, -ῆς, ἡ",,taphē,"burial, burial place",5027
@@ -5330,7 +5354,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "τελευτή, -ῆς, ἡ",,teleutē,"end, death, end of life",5054
 τελέω,,teleō,"finish, fulfill, end, accomplish, pay",5055
 "τέλος, -ους, τό",,telos,"end, purpose, tax",5056
-"τελώνης, -ου, ὁ",,telōnēs,"tax collector, collector of taxes",5057
+"τελώνης, -ου, ὁ",,telōnēs,tax collector,5057
 "τελώνιον, -ου, τό",,telōnion,"tax office, tax collector's office",5058
 "τέρας, -ατος, τό",,teras,"wonder, portent",5059
 "Τέρτιος, -ου, ὁ",,Tertios,Tertius,5060
@@ -5413,6 +5437,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "Τραχωνῖτις, -ιδος, ἡ",,Trachōnitis,Trachonitis,5139
 τρεῖς,,treis,"三, 3",5140
 τρέμω,,tremō,"tremble, am afraid",5141
+τρέπω,,trepō,"turn, rotate, change",
 τρέφω,,trephō,"make to grow, nourish, feed, rear",5142
 τρέχω,,trechō,"run, exercise myself",5143
 "τρῆμα, -τος, τό",,trēma,"opening, hole",
@@ -5429,6 +5454,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "τρισχίλιοι, -αι, -α",,trischilioi,"three thousand, 3000",5153
 "τρίτος, -η, -ον",,tritos,third,5154
 "τρίχινος, -η, -ον",,trichinos,made of hair,5155
+"Τροία, -ας, ἡ","Τρῳα, Τροίη",Troia,Troy,
 "τρόμος, -ου, ὁ",,tromos,"trembling, quaking",5156
 "τροπή, -ῆς, ἡ",,tropē,"turning, change",5157
 "τρόπος, -ου, ὁ",,tropos,"manner, way, character",5158
@@ -5468,7 +5494,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 τύφω,,tuphō,raise smoke,5188
 "τυφωνικός, -ή, -όν",,tuphōnikos,"like a whirlwind, violent, tempestuous",5189
 "Τυχικός, -οῦ, ὁ",,Tuchikos,Tychicus,5190
-"ὑακίνθινος, -η, -ον",,uakinthinos,"hyacinth-colored, dark purple",5191
+"ὑακίνθινος, -η, -ον",,uakinthinos,"hyacinth-colored, dark blue, dark purple",5191
 "ὑάκινθος, -ου, ὁ",,uakinthos,"jacinth, hyacinth",5192
 "ὑάλινος, -η, -ον",,ualinos,"of glass, glassy, transparent",5193
 "ὕαλος, -ου, ἡ",,ualos,"crystal, glass",5194
@@ -5883,7 +5909,7 @@ Word,alternate-spellings,transliteration,Gloss,Strongs
 "ψυχικός, -ή, -όν",,psuchikos,"natural, wordly-minded, animal, sensuous",5591
 ψύχομαι,,psuchomai,"go out, be extinguished, grow cold",
 "ψῦχος, -ους, τό",,psuchos,cold,5592
-"ψυχρός, -ά, -όν",,psuchros,"cold, cold hearted",5593
+"ψυχρός, -ά, -όν",,psuchros,cold,5593
 ψύχω,,psuchō,"cool, grow cold",5594
 ψωμίζω,,psōmizō,"feed with morsels, feed, dole out",5595
 "ψωμίον, -ου, τό",,psōmion,"fragment, morsel, small piece of bread",5596
